@@ -1,0 +1,17 @@
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\DemoSpringBatchApplication.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\tasklet\ShowUserInfoTasklet.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\dto\User.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\processor\UserProcessor.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\model\UserEntity.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\writer\PersonaCsvWriter.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\writer\UserWriter.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\listener\UserExecutionListener.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\processor\PersonaProcessor.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\model\Persona.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\tasklet\PrintUsersTasklet.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\config\datasource\DatasourceConfiguration.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\model\PersonaBuilder.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\config\batch\BatchConfiguration.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\processor\UserEntityToPersonaProcessor.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\writer\UserUpdaterWriter.java
+C:\Users\alberto.carmona\Ejercicios\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\processor\UserEditProcessor.java
